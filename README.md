@@ -1,2 +1,2 @@
 # Challenge-Encriptador
-Proyecto del curso de Alura G6 Next Education para desarrolladores web.
+Les comparto el proyecto del curso de Alura G6 Next Education que desarrollé emulando el diseño que Alura nos compartio atraves de Figma donde pusimos en práctica todo lo aprendido durante los cursos de la primera etapa utilizando HTML, CSS y Java Script espero te sea de ayuda como una guia para tu proyecto si estas tomando este curso y sino no dudes en contactarme y te ayude con todo gusto.  
